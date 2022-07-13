@@ -27,3 +27,6 @@ img/
 
 # log
 *.log
+
+# bootstrap
+bootstrap/
