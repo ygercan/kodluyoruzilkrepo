@@ -2,4 +2,4 @@
 kodluyoruzilkrepo
 
 ## Patika.dev 
-'frontend-101-egitimi'
+frontend-101-egitimi
